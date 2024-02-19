@@ -9,7 +9,7 @@
 
 
 ## Key
-As mentioned, you will have an unic key (containing 20 digits) which you can use to safely store and browse your 
+As mentioned, you will have an unic key (containing 32 digits) which you can use to safely store and browse your 
 passwords. You have to first create your password and your key from create section in main window. Afterward, hash of it will be saved in 
 ```data/main_password.json```.
 
